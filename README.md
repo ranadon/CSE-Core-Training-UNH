@@ -6,4 +6,4 @@ Jeff Copperthite
 Insiya Dhrolia
 Meghan Canning
 Ryan Kish
-Hello World - Bob Girsch
+Bob Girsch
