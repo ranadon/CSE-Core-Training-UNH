@@ -7,3 +7,4 @@ Insiya Dhrolia
 Meghan Canning
 Ryan Kish
 Bob Girsch
+Patti Doren
